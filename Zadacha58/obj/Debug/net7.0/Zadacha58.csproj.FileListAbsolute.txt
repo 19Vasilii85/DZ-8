@@ -1,0 +1,15 @@
+C:\Users\kinei\OneDrive\Рабочий стол\Учеба\DZ-8\DZ-8\Zadacha58\bin\Debug\net7.0\Zadacha58.exe
+C:\Users\kinei\OneDrive\Рабочий стол\Учеба\DZ-8\DZ-8\Zadacha58\bin\Debug\net7.0\Zadacha58.deps.json
+C:\Users\kinei\OneDrive\Рабочий стол\Учеба\DZ-8\DZ-8\Zadacha58\bin\Debug\net7.0\Zadacha58.runtimeconfig.json
+C:\Users\kinei\OneDrive\Рабочий стол\Учеба\DZ-8\DZ-8\Zadacha58\bin\Debug\net7.0\Zadacha58.dll
+C:\Users\kinei\OneDrive\Рабочий стол\Учеба\DZ-8\DZ-8\Zadacha58\bin\Debug\net7.0\Zadacha58.pdb
+C:\Users\kinei\OneDrive\Рабочий стол\Учеба\DZ-8\DZ-8\Zadacha58\obj\Debug\net7.0\Zadacha58.csproj.AssemblyReference.cache
+C:\Users\kinei\OneDrive\Рабочий стол\Учеба\DZ-8\DZ-8\Zadacha58\obj\Debug\net7.0\Zadacha58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kinei\OneDrive\Рабочий стол\Учеба\DZ-8\DZ-8\Zadacha58\obj\Debug\net7.0\Zadacha58.AssemblyInfoInputs.cache
+C:\Users\kinei\OneDrive\Рабочий стол\Учеба\DZ-8\DZ-8\Zadacha58\obj\Debug\net7.0\Zadacha58.AssemblyInfo.cs
+C:\Users\kinei\OneDrive\Рабочий стол\Учеба\DZ-8\DZ-8\Zadacha58\obj\Debug\net7.0\Zadacha58.csproj.CoreCompileInputs.cache
+C:\Users\kinei\OneDrive\Рабочий стол\Учеба\DZ-8\DZ-8\Zadacha58\obj\Debug\net7.0\Zadacha58.dll
+C:\Users\kinei\OneDrive\Рабочий стол\Учеба\DZ-8\DZ-8\Zadacha58\obj\Debug\net7.0\refint\Zadacha58.dll
+C:\Users\kinei\OneDrive\Рабочий стол\Учеба\DZ-8\DZ-8\Zadacha58\obj\Debug\net7.0\Zadacha58.pdb
+C:\Users\kinei\OneDrive\Рабочий стол\Учеба\DZ-8\DZ-8\Zadacha58\obj\Debug\net7.0\Zadacha58.genruntimeconfig.cache
+C:\Users\kinei\OneDrive\Рабочий стол\Учеба\DZ-8\DZ-8\Zadacha58\obj\Debug\net7.0\ref\Zadacha58.dll
